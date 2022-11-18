@@ -35,6 +35,6 @@
   - 🎾 Tennis 
   - 📖 Books 
   - 🎵 Music  
-  - :desert_island: traveling
+  - :desert_island: Traveling
   
 </div>
