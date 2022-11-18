@@ -6,7 +6,7 @@
 
 <div align="left">
   
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)]([https://www.linkedin.com/in/aristi-papastavrou-059a99192/])  [![Visits](https://komarev.com/ghpvc/?username=AristiPap&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/AristiPap/)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/aristi-papastavrou-059a99192/)  [![Visits](https://komarev.com/ghpvc/?username=AristiPap&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/AristiPap/)
 
 </div>
 <div>
@@ -15,7 +15,7 @@
   
 - 🎓 Currently a Master's student in Data Science and Machine Learning Engineering @ <a href="https://www.ece.ntua.gr/en"> School of Electrical and Computer Engineering, NΤUA</a>
 
-- 🖥️ Data Science Ασσοψιατε @ [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
+- 🖥️ Data Science Associate @ [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
 
   
   
