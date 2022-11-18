@@ -1,16 +1,34 @@
 ### Hi there 👋
+## About 
 
-<!--
-**AristiPap/AristiPap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)]([https://www.linkedin.com/in/vissarion-moutafis-843947192/](https://www.linkedin.com/in/aristi-papastavrou-059a99192/))  [![Visits](https://komarev.com/ghpvc/?username=AristiPap&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/AristiPap/)
 
-Here are some ideas to get you started:
+</div>
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Bachelor's Degree in Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
+  
+- 🎓 Currently a Master's student in Data Science and Machine Learning Engineering @ <a href="https://www.ece.ntua.gr/en"> School of Electrical and Computer Engineering, NΤUA</a>
+
+- 🖥️ Data Science Ασσοψιατε @ [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
+
+  
+  
+- ❗ Interested in:
+  - Data Science 
+  - Machine Learning
+  - Artificial Intelligence
+  - System Security
+  - Systems Architecture
+  - Networks
+  - Task Automation
+  
+- ℹ Other Interests: 
+  - 🎾 Tennis 
+  - 📖 Books 
+  - 🎵 Music  
+  - :desert_island: traveling
+  
+</div>
