@@ -13,6 +13,34 @@
 
 </div>
 
+<div>
+
+- 🎓 Bachelor's Degree in Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
+  
+- 🎓 Currently a Master's student in Data Science and Machine Learning Engineering @ <a href="https://www.ece.ntua.gr/en"> School of Electrical and Computer Engineering, NΤUA</a>
+
+- 🖥️ Data Science Associate @ [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
+
+</div>
+
+<div>
+
+- ❗ Interested in:
+  - Data Science 
+  - Machine Learning
+  - Artificial Intelligence
+  - System Security
+  - Systems Architecture
+  - Networks
+  - Task Automation
+  
+- ℹ Other Interests: 
+  - 🎾 Tennis 
+  - 📖 Books 
+  - 🎵 Music  
+  - :desert_island: Traveling
+  
+</div>
 
 ## Languages and Tools
 
@@ -55,34 +83,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AristiPap&show_icons=true&count_private=true&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristiPap&hide_border=true&layout=compact" width="50%" />
 </p>
-
-
-
-<div>
-
-- 🎓 Bachelor's Degree in Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
-  
-- 🎓 Currently a Master's student in Data Science and Machine Learning Engineering @ <a href="https://www.ece.ntua.gr/en"> School of Electrical and Computer Engineering, NΤUA</a>
-
-- 🖥️ Data Science Associate @ [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
-
-</div>
-
-<div>
-
-- ❗ Interested in:
-  - Data Science 
-  - Machine Learning
-  - Artificial Intelligence
-  - System Security
-  - Systems Architecture
-  - Networks
-  - Task Automation
-  
-- ℹ Other Interests: 
-  - 🎾 Tennis 
-  - 📖 Books 
-  - 🎵 Music  
-  - :desert_island: Traveling
-  
-</div>
