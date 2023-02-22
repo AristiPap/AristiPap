@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yy7g6bc78e4wvrg8qan9lb9r9&cover_image=true&theme=novatorem)](/novatorem.svg)
-</div>
 
 ## About 
 
