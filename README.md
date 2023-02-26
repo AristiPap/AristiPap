@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## About 
+## About me:
 
 <div align="left">
   
