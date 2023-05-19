@@ -11,9 +11,12 @@
 
 <div>
 
+- 🎓 Currently a Master's student in Data Science and Machine Learning Engineering @ <a href="https://www.ece.ntua.gr/en"> School of Electrical and Computer Engineering, NΤUA</a>
+
+- 🎓 But also a Master's Student in Information Security @ <a href="https://www.ucl.ac.uk"> School of Engineering, UCL</a>
+  
 - 🎓 Bachelor's Degree in Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
   
-- 🎓 Currently a Master's student in Data Science and Machine Learning Engineering @ <a href="https://www.ece.ntua.gr/en"> School of Electrical and Computer Engineering, NΤUA</a>
 
 </div>
 
