@@ -15,8 +15,6 @@
   
 - 🎓 Currently a Master's student in Data Science and Machine Learning Engineering @ <a href="https://www.ece.ntua.gr/en"> School of Electrical and Computer Engineering, NΤUA</a>
 
-- 🖥️ Data Science Associate @ [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
-
 </div>
 
 <div>
@@ -25,16 +23,16 @@
   - Data Science 
   - Machine Learning
   - Artificial Intelligence
-  - System Security
-  - Systems Architecture
+  - Computer Vision
+  - Data Privacy
+  - Cyber Security
   - Networks
-  - Task Automation
   
 - ℹ Other Interests: 
-  - 🎾 Tennis 
-  - 📖 Books 
+  - 🎾 Tennis
+  - 🌍 Traveling
   - 🎵 Music  
-  - :desert_island: Traveling
+  - 📖 Books 
   
 </div>
 
