@@ -102,6 +102,9 @@
   <a href="https://developer.android.com/studio/intro" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original-wordmark.svg" alt="javascript" width="40" height="40"/>
   </a>
+   <a href="https://soliditylang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
   
 </p>
 
