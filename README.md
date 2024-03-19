@@ -4,8 +4,22 @@
 ## About me:
 
 <div align="left">
-  
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/aristi-papastavrou-059a99192/)  [![Visits](https://komarev.com/ghpvc/?username=AristiPap&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/AristiPap/)
+
+[![CV][8_icon]][6]
+&nbsp;
+[![LinkedIn][4_icon2]][4]
+&nbsp;
+[![Visits](https://komarev.com/ghpvc/?username=AristiPap&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/AristiPap/)
+<!-- <br> -->
+
+
+[4_icon2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge-m&logo=linkedin&logoColor=black
+[8_icon]: https://img.shields.io/badge/Resumé-4285F4?style=for-the-badge-m&logo=google-drive&logoColor=black
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+
+[4]: https://www.linkedin.com/in/aristi-papastavrou/
+[6]: https://liveuclac-my.sharepoint.com/:b:/r/personal/ucabap6_ucl_ac_uk/Documents/Final_CV_UCL-2.pdf?csf=1&web=1&e=AJ40J1
 
 </div>
 
