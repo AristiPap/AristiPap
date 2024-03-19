@@ -43,6 +43,7 @@
   - Computer Vision
   - Data Privacy
   - Cyber Security
+  - Malware Detection
   - Networks
   
 - ℹ Other Interests: 
