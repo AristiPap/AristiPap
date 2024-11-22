@@ -19,7 +19,7 @@
 
 
 [4]: https://www.linkedin.com/in/aristi-papastavrou/
-[6]: https://liveuclac-my.sharepoint.com/:b:/g/personal/ucabap6_ucl_ac_uk/EWnDuZrATwhArEYPTcYddHoBInqEjANZwHZKSdDpSRMdng?e=e5FZM8
+[6]: https://liveuclac-my.sharepoint.com/:b:/r/personal/ucabap6_ucl_ac_uk/Documents/_CV_.pdf?csf=1&web=1&e=Y5LlLx
 
 </div>
 
