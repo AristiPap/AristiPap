@@ -25,7 +25,9 @@
 
 <div>
 
-- 🎓 Currently a Master's Student in Information Security @ <a href="https://www.ucl.ac.uk"> School of Engineering, UCL</a>
+- 💼 Currently working as a Cyber Security Risk and Strategy Professional @ <a href="https://www.deloitte.com/global/en.html">, dpt of Technology & Transformation, Cyber</a>
+
+- 🎓 Master's holder in Information Security @ <a href="https://www.ucl.ac.uk"> School of Engineering, UCL</a>
   
 - 🎓 Master's holder in Data Science and Machine Learning Engineering @ <a href="https://www.ece.ntua.gr/en"> School of Electrical and Computer Engineering, NΤUA</a>
   
