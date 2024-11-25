@@ -25,7 +25,7 @@
 
 <div>
 
-- 💼 Currently working as a Cyber Security Risk and Strategy Professional @ <a href="https://www.deloitte.com/global/en.html">, dpt of Technology & Transformation, Cyber</a>
+- 💼 Currently working as a Cyber Security Risk and Strategy Professional @ <a href="https://www.deloitte.com/global/en.html">, Deloitte </a>
 
 - 🎓 Master's holder in Information Security @ <a href="https://www.ucl.ac.uk"> School of Engineering, UCL</a>
   
