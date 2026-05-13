@@ -127,6 +127,3 @@
   
 </p>
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristiPap&hide_border=true&layout=compact" width="50%" />
-</p>
