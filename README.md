@@ -39,6 +39,8 @@
 <div>
 
 - ❗ Interested in:
+  - AI Security
+  - Information Security
   - Data Science 
   - Machine Learning
   - Artificial Intelligence
@@ -125,9 +127,6 @@
   
 </p>
 
-## Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AristiPap&show_icons=true&count_private=true&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristiPap&hide_border=true&layout=compact" width="50%" />
 </p>
